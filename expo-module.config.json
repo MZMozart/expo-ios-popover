@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoiOSPopoverModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.iospopover.ExpoiOSPopoverModule"]
+  }
+}

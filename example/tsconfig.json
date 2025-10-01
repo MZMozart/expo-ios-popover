@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-ios-popover": ["../src/index"],
+      "expo-ios-popover/*": ["../src/*"]
+    }
+  }
+}
