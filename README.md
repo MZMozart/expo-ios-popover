@@ -79,8 +79,6 @@ yarn add expo-ios-popover
 
 ---
 
-## 🎥 Preview
-
 ## 🎨 License
 
 MIT © 2025
