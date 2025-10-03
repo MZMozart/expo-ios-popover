@@ -56,11 +56,11 @@ export default function App() {
 
 ### `Popover`
 
-| Prop        | Type              | Default  | Description                      |             |         |                |
-| ----------- | ----------------- | -------- | -------------------------------- | ----------- | ------- | -------------- |
-| `id`        | `string`          | —        | Unique identifier                |             |         |                |
-| `arrowEdge` | `"top"            | "bottom" | "leading"                        | "trailing"` | `"top"` | Arrow position |
-| `children`  | `React.ReactNode` | —        | Should include Trigger & Content |             |         |                |
+| Prop        | Type                                           | Default | Description                      |
+| ----------- | -----------------------------------------------| ------- | -------------------------------- |
+| `id`        | `string`                                       | —       | Unique identifier                |
+| `arrowEdge` | `"top" \| "bottom" \| "leading" \| "trailing"` | `"top"` | Arrow position                   |
+| `children`  | `React.ReactNode`                              | —       | Should include Trigger & Content |
 
 ### `Popover.Trigger` & `Popover.Content`
 
